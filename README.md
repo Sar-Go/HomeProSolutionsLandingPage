@@ -1,3 +1,7 @@
+# Summary
+A web server built using Go language, demonstrating the working of Routes, fit into a hypothetical use case.
+Employees, GET & POST Request (no persistant storage- DB attached)
+
 # Documentation
 
 1. Fork the repository, and open the repository in a Github CodeSpace.
